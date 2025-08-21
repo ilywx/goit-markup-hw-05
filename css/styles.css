@@ -526,6 +526,7 @@ img {
 .close-button:hover,
 .close-button:focus {
     background-color: #404bbf;
+    border: none;
 }
 
 .modal-icon {
