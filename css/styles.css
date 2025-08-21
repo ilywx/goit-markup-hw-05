@@ -650,11 +650,11 @@ img {
 }
 
 .visually-hidden:checked+.label-checkbox .span-form {
-background-color: var(--accent-color, #404bbf);border: none;
+background-color: #404bbf;border: none;
 }
 
 .visually-hidden:checked+.label-checkbox .span-form .checkbox-icon {
-    fill: var(--light-color, #f4f4fd);
+    fill: #f4f4fd;
 
 }
 
