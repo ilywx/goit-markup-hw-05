@@ -317,6 +317,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .portfolio {
@@ -653,13 +654,16 @@ img {
 background-color: #404bbf;border: none;
 }
 
-.visually-hidden:checked+.label-checkbox .span-form .checkbox-icon {
-    fill: #f4f4fd;
-
+.visually-hidden:checked+.label-checkbox .span-form {
+    fill: var(--light-color);
 }
 
 .form-link {
     color: #4d5ae5;
+}
+
+.footer-formbox {
+    margin-left: 80px;
 }
 
 .form-text {
@@ -723,4 +727,5 @@ background-color: #404bbf;border: none;
 
 .footer-icon {
     margin-left: 16px;
+    fill: #ffffff;
 }
