@@ -653,7 +653,7 @@ img {
 .visually-hidden:checked+.label-checkbox .span-form {
 background-color: #404bbf;
 border: none;
-fill: #ffffff;
+fill: #F4F4FD;
 }
 
 
