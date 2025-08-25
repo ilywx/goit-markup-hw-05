@@ -651,12 +651,11 @@ img {
 }
 
 .visually-hidden:checked+.label-checkbox .span-form {
-background-color: #404bbf;border: none;
+background-color: #404bbf;
+border: none;
+fill: #ffffff;
 }
 
-.visually-hidden:checked+.label-checkbox .span-form {
-    fill: var(--light-color);
-}
 
 .form-link {
     color: #4d5ae5;
